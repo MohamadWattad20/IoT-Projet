@@ -1,6 +1,7 @@
-## XXXXX Project by :  
+## PET FEDDER Project by :  Mohamad Wattad , Muhammad Jml , Fares Jbareen  
   
-## Details about the project
+## Details about the project:
+
  
 ## Folder description :
 * ESP32: source code for the esp side (firmware).
