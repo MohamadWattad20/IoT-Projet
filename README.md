@@ -1,4 +1,4 @@
-## PET FEDDER Project by :  Mohamad Wattad , Muhammad Jml , Fares Jbareen  
+## PET FEEDER Project by :  Mohamad Wattad , Muhammad Jml , Fares Jbareen  
   
 ## Details about the project:
 An automated smart pet feeding system that monitors bowl weight in real-time, captures event-driven visual snapshots, and executes cloud-connected schedules to manage dietary routines remotely.
