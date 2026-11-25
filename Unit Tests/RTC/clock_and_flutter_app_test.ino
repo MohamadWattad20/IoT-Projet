@@ -5,8 +5,8 @@
 #include <WiFiClientSecure.h>
 #include <HTTPClient.h>
 
-const char* WIFI_SSID = "abedwattad";
-const char* WIFI_PASSWORD = "0505663545";
+const char* WIFI_SSID = "SSID";
+const char* WIFI_PASSWORD = "PASSWORD";
 
 const char* CLOUD_RTC_URL =
     "https://simple-test-number-1-default-rtdb.firebaseio.com/pet_feeder/rtc_time.json";
